@@ -1,0 +1,15 @@
+45f5f2c254e93b0b449989995be4b076 *DESCRIPTION
+23940cba95393d2f0e6ccf232cc1ef52 *NAMESPACE
+4f17764a3723c5b582f60fcb7e1658d2 *R/fastAcf.R
+df7b83d9791ceee9073ab852bf0d60d1 *R/sazed.R
+6d3659ab4b95ac2fae419eeb1ee0f3e0 *README.md
+dfa0775188d1f18375be662a23488cd0 *man/S.Rd
+7e5182de06a8b92cf6869158969f4349 *man/Sa.Rd
+c2dbe8c052dbba6f2f7b1860f6a5fb1c *man/aze.Rd
+8a2084c06cd0ba04b368f4d234a48dde *man/azed.Rd
+a87643346671840d2d755e0ca45008b9 *man/computeAcf.Rd
+51478d0386ad930b0bf5633aa717b058 *man/downsample.Rd
+e57a9e12849ae50ffcdeed5e4d7edb5a *man/preprocessTs.Rd
+d417435caa6c1cb189b6fa38c77d59f3 *man/sazed.Rd
+2d13cb2966845876f373e88f631ed071 *man/ze.Rd
+0b85ec60ba0e8e5c64a2518180a5c131 *man/zed.Rd
