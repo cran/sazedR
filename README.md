@@ -18,7 +18,7 @@ install.packages("sazed")
 
 ## Usage
 Estimate the season length of a seasonal time series with the 
-ensemble method SAZED:
+variations of the ensemble method SAZED:
 
 ``` r
 library(sazed)
